@@ -14,7 +14,7 @@ This project implements a complete sales data analysis system, from connecting t
 
 | User Story | Status | Points | Files |
 |------------|--------|--------|-------|
-| PostgreSQL Connection | ✅ Completed | 20/20 | `HU1 - Conexion.ipynb` |
+| PostgreSQL Connection | ✅ Completed | 20/20 | `conexion_postgresql.ipynb` |
 | Data Cleaning | ✅ Completed | 20/20 | `Limpieza y Analisis.ipynb` |
 | Exploratory Analysis | ✅ Completed | 20/20 | `Limpieza y Analisis.ipynb` |
 | Power BI + PostgreSQL | ✅ Completed | 20/20 | `Power BI PostgreSQL.md` |
@@ -436,4 +436,5 @@ pip install -r requirements.txt
 
    - **100%** of acceptance criteria met
    - **100%** of required visualizations implemented
+
    - **100%** of complete documentation
